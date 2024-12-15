@@ -13,8 +13,7 @@ from telethon.tl.functions.messages import ReportRequest
 from telethon.tl.types import InputReportReasonSpam, InputReportReasonViolence, InputReportReasonPornography, InputReportReasonChildAbuse, InputReportReasonOther
 from urllib.parse import urlparse
 
-API_TOKEN = '7501860705:AAEPuThmAoVhCFnqkBPGKJ9EENi70vnbszs'
-API_ID = '28234677'
+API_TOKEN = '7642861396:AAHKFGfwLyq3TG96HjCRjWmqHOyJr0gO0Ig'
 API_HASH = 'e7c47bee153e7c54524d4086c650027d'
 SESSION_FOLDER = 'sessions'
 USERS_DB = 'users.json'
